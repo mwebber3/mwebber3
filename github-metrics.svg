@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/azure-cli</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure Command-Line Interface</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/Azure-Sentinel</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloud-native SIEM for intelligent security analytics for your entire enterprise.</div>
@@ -376,7 +376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/bicep</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bicep is a declarative language for describing and deploying Azure resources</div>
@@ -444,7 +444,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2023, 21:09:20 (timezone America/Detroit) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Feb 2023, 22:08:27 (timezone America/Detroit) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
