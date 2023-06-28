@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adamdriscoll/ud-activedirectory</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Active Directory Dashboard built on Universal Dashboard.</div>
@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BloodHoundAD/BloodHound</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Six Degrees of Domain Admin</div>
@@ -376,7 +376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ironmansoftware/universal-dashboard</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build beautiful websites with PowerShell.</div>
@@ -841,7 +841,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.66m out of 411m repositories</span>
+                                    <span class="gh">ranked 4.76m out of 411m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -938,7 +938,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2023, 02:10:56 (timezone America/Detroit) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jun 2023, 03:07:41 (timezone America/Detroit) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
