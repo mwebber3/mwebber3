@@ -270,7 +270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuvuzela/vuvuzela</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private messaging system that hides metadata</div>
@@ -829,7 +829,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 62.7m repositories</span>
+                                    <span class="gh">ranked 5.07m out of 70.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -926,7 +926,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2023, 19:36:45 (timezone America/Detroit) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 20:53:52 (timezone America/Detroit) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
